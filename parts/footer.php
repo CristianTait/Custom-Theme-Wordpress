@@ -18,5 +18,5 @@
 </body>
 <script src="<?php echo get_template_directory_uri(); ?>/node_modules/jquery/dist/jquery.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="<?php echo get_template_directory_uri(); ?>/assets/js/navbar.js"></script>
+    
 </html>

@@ -12,12 +12,3 @@ Sigue estos pasos para instalar el proyecto:
 3. Configura el archivo de entorno
 4. Importa la base de datos
 5. Ejecuta el servidor local
-
-## Uso
-Aquí puedes explicar cómo utilizar el proyecto, incluyendo ejemplos de código, capturas de pantalla, etc.
-
-## Contribución
-Agradecemos cualquier contribución al proyecto. Puedes realizar cambios y enviar pull requests.
-
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
